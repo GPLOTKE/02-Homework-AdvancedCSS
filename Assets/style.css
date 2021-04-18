@@ -1,0 +1,14 @@
+/* Found these examples in our activities for adjustments based on differing screen sizes */
+
+@media screen and (max-width:992px) {
+    header {
+        background: lightblue;
+    }
+}
+
+@media screen and (max-width: 786px){
+    main {
+        background-color: lightcoral;
+     }
+}
+
